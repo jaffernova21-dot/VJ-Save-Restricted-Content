@@ -26,7 +26,7 @@ API_HASH = os.environ.get("API_HASH", "7b56a1a17366fb67ba913ff0cbac6e67")
 ADMINS = [8281644724] 
 
 # Your Channel Id In Which Bot Uploads
-CHANNEL_ID = os.environ.get("CHANNEL_ID", "")
+CHANNEL_ID = os.environ.get("CHANNEL_ID", "-1003528129327")
 
 # Your Mongodb Database Url
 DB_URI = os.environ.get("DB_URI", "mongodb+srv://jaffernova21_db_user:kdcxktjJo6dEXEWm@cluster0.rdci8wh.mongodb.net/?appName=Cluster0")
